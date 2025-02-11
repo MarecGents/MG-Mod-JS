@@ -1,0 +1,280 @@
+{
+    "manifest": [
+        
+        {
+            "key": "assets/content/accessories/jin/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/accessories/jin/gas_block_ak_izhmash_akm_std.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/accessories/jin/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/handguard/handguard_ak_izhmash_ak74_std_plum.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/reciever/reciever_ak_akademia_bastion.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/reciever/reciever_ak_izhmash_akm_std.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/stock/stock_ak74_izhmash_ak74_std_plastic.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/muzzle/muzzle_ak_izhmash_akm_std_762x39.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/sight/sight_rear_ak_izhmash_akm_std.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/mag/mag_ak_izhmash_ak_std_55_762x39_30.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/akm/client_assets.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/accessories/jin/akm/textures/client_assets.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/jin/akm/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/accessories/jin/akm/weapon_izhmash_akm_762x39_container.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/audio/banks/akm.bundle",
+                "assets/content/audio/banks/vpo209.bundle",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/audio/weapons/ak74.bundle",
+                "assets/content/audio/weapons/akm.bundle",
+                "assets/content/audio/weapons/akm/instrumental.bundle",
+                "assets/content/audio/weapons/akm/vpo209.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+                "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+                "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+                "assets/content/items/mods/stocks/stock_akms_izhmash_akms_std_textures.bundle",
+                "assets/content/items/mods/stocks/stock_akms_izhmash_akmsn_std_textures.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "assets/content/accessories/jin/akm/client_assets.bundle",
+                "assets/content/accessories/jin/akm/textures/client_assets.bundle",
+                "assets/content/weapons/akm/weapon_molot_akm_vpo_209_366tkm_container.bundle",
+                "assets/content/weapons/animations/simple_animations.bundle",
+                "assets/content/weapons/animations/spirit_animations.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        
+        {
+            "key": "assets/content/accessories/yh/pistolgrip_ar15_magpul_miad_gen_1_fde.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/mount_all_iea_kh_f_34mm.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/scope_34mm_hensoldt_zf_4_16x56_ff.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+                "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+                "cubemaps",
+                "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/reciever_ax_accuracy_international_axmc_upper_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/foregrip_ax_accuracy_international_ax_base_pad_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/stock_ax_accuracy_international_ax_butt_stock_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/handguard_ax_accuracy_international_axmc_handguard_16_inch_keyslot_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/mount_keyslot_accuracy_international_at_x_forend_rail_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/reciever_ax_accuracy_international_axmc_std_86x70_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/barrel_ax_accuracy_international_686mm_86x70_lod0_diff_pb.bundle",
+            "dependencyKeys": [
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/barrel_ax_accuracy_international_686mm_86x70_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/accessories/yh/barrel_ax_accuracy_international_686mm_86x70_lod0_diff_pb.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/mag_ax_accuracy_international_ax_86x70_10_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/pistolgrip_ax_gtac_ax_pistol_grip_adapter_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/accessories/yh/axmc/client_assets.bundle",
+                "assets/content/accessories/yh/axmc/textures/client_assets.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/charge_ax_accuracy_internation_axmc_86x70_pb.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/accessories/yh/axmc/client_assets.bundle",
+                "assets/content/accessories/yh/axmc/textures/client_assets.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/axmc/textures/client_assets.bundle",
+            "dependencyKeys": [
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/axmc/client_assets.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/accessories/yh/axmc/textures/client_assets.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/accessories/yh/axmc/weapon_accuracy_international_axmc_86x70_container.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/audio/weapons/ak74.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/weapons/mosin/instr/mosin_round_load_snd",
+                "assets/content/audio/weapons/mr133.bundle",
+                "assets/content/audio/weapons/sa58/instr/fal_stock_snd",
+                "assets/content/audio/weapons/sks.bundle",
+                "assets/content/audio/weapons/sv98.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "assets/content/weapons/animations/simple_animations.bundle",
+                "assets/content/weapons/animations/spirit_animations.bundle",
+                "assets/content/accessories/yh/axmc/client_assets.bundle",
+                "assets/content/accessories/yh/axmc/textures/client_assets.bundle",
+                "assets/content/weapons/m700/client_assets.bundle",
+                "assets/content/weapons/m700/textures/client_assets.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        }
+    ]
+}

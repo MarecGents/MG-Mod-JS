@@ -539,6 +539,219 @@
         "UnlimitedCount": true,
         "StackObjectsCount": 2
       }
+    },
+    
+    {
+      "_id": "mgtrader_custom_assort_guns2_akmjin",
+      "_tpl": "8ef5b2ef3000000000000008",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjinhandguard",
+      "_tpl": "8ef5b2ef3000000000000001",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjinsight",
+      "_tpl": "8ef5b2ef3000000000000006",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_sight_rear"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjinmuzzle",
+      "_tpl": "8ef5b2ef3000000000000003",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_grip",
+      "_tpl": "5c6bf4aa2e2216001219b0ae",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjinreciever1",
+      "_tpl": "8ef5b2ef3000000000000004",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjinmag",
+      "_tpl": "8ef5b2ef3000000000000002",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjinstock",
+      "_tpl": "8ef5b2ef3000000000000007",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns2_akjingas",
+      "_tpl": "8ef5b2ef3000000000000000",
+      "parentId": "mgtrader_custom_assort_guns2_akmjin",
+      "slotId": "mod_gas_block"
+    },
+    
+    {
+      "_id": "mgtrader_custom_assort_guns3_akmjin",
+      "_tpl": "8ef5b2ef3000000000000008",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_akjinhandguard",
+      "_tpl": "8ef5b2ef3000000000000001",
+      "parentId": "mgtrader_custom_assort_guns3_akjingas",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_akjinmuzzle",
+      "_tpl": "8ef5b2ef3000000000000003",
+      "parentId": "mgtrader_custom_assort_guns3_akmjin",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_grip",
+      "_tpl": "5c6bf4aa2e2216001219b0ae",
+      "parentId": "mgtrader_custom_assort_guns3_akmjin",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_akjinreciever2",
+      "_tpl": "8ef5b2ef3000000000000005",
+      "parentId": "mgtrader_custom_assort_guns3_akmjin",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_akjinmag",
+      "_tpl": "8ef5b2ef3000000000000002",
+      "parentId": "mgtrader_custom_assort_guns3_akmjin",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_akjinstock",
+      "_tpl": "8ef5b2ef3000000000000007",
+      "parentId": "mgtrader_custom_assort_guns3_akmjin",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns3_akjingas",
+      "_tpl": "8ef5b2ef3000000000000000",
+      "parentId": "mgtrader_custom_assort_guns3_akmjin",
+      "slotId": "mod_gas_block"
+    },
+    
+    {
+      "_id": "mgtrader_custom_assort_guns4_axyhzq1",
+      "_tpl": "8ef5b2ef3000000000000021",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 100
+      }
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axyhzqzhujian",
+      "_tpl": "8ef5b2ef3000000000000022",
+      "parentId": "mgtrader_custom_assort_guns4_axyhzq1",
+      "slotId": "mod_charge"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axyhzq3",
+      "_tpl": "8ef5b2ef3000000000000020",
+      "parentId": "mgtrader_custom_assort_guns4_axyhzq1",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axdanjia",
+      "_tpl": "8ef5b2ef3000000000000010",
+      "parentId": "mgtrader_custom_assort_guns4_axyhzq1",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axqiangtuo",
+      "_tpl": "8ef5b2ef3000000000000016",
+      "parentId": "mgtrader_custom_assort_guns4_axyhzq3",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axshouwo",
+      "_tpl": "8ef5b2ef3000000000000018",
+      "parentId": "mgtrader_custom_assort_guns4_axyhzq3",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axkuangjia",
+      "_tpl": "axkuangjia",
+      "parentId": "mgtrader_custom_assort_guns4_axyhzq3",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axshangjixia",
+      "_tpl": "axshangjixia",
+      "parentId": "mgtrader_custom_assort_guns4_axkuangjia",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axwoba",
+      "_tpl": "8ef5b2ef3000000000000019",
+      "parentId": "mgtrader_custom_assort_guns4_axkuangjia",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axhumu",
+      "_tpl": "axhumu",
+      "parentId": "mgtrader_custom_assort_guns4_axkuangjia",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axdaogui",
+      "_tpl": "8ef5b2ef3000000000000011",
+      "parentId": "mgtrader_custom_assort_guns4_axhumu",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axqiangguan",
+      "_tpl": "8ef5b2ef3000000000000015",
+      "parentId": "mgtrader_custom_assort_guns4_axshangjixia",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axmiaojujizhuo",
+      "_tpl": "axmiaojujizhuo",
+      "parentId": "mgtrader_custom_assort_guns4_axshangjixia",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_axzhunjin",
+      "_tpl": "8ef5b2ef3000000000000023",
+      "parentId": "mgtrader_custom_assort_guns4_axmiaojujizhuo",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_muzzle1",
+      "_tpl": "62812081d23f207deb0ab216",
+      "parentId": "axyhzq12",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "mgtrader_custom_assort_guns4_muzzle2",
+      "_tpl": "62811fa609427b40ab14e765",
+      "parentId": "mgtrader_custom_assort_guns4_muzzle1",
+      "slotId": "mod_muzzle"
     }
   ],
   "barter_scheme": {
@@ -973,8 +1186,33 @@
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
+    ],
+    
+    "mgtrader_custom_assort_guns3_akmjin": [
+      [
+        {
+          "count": 1557857,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "mgtrader_custom_assort_guns2_akmjin": [
+      [
+        {
+          "count": 1564742,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    
+    "mgtrader_custom_assort_guns4_axyhzq1": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
     ]
-
   },
   "loyal_level_items": {
     "mgtrader_default_assort_bullet01": 2,
@@ -1030,6 +1268,11 @@
     "mgtrader_default_assort_bullet51": 2,
     "mgtrader_default_assort_bullet52": 3,
     "mgtrader_default_assort_item1": 1,
-    "mgtrader_custom_assort_guns1_PKP": 4
+    "mgtrader_custom_assort_guns1_PKP": 4,
+    
+    "mgtrader_custom_assort_guns3_akmjin": 1,
+    "mgtrader_custom_assort_guns2_akmjin": 1,
+    
+    "mgtrader_custom_assort_guns4_axyhzq1": 1
   }
 }

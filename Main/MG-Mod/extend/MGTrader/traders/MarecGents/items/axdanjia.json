@@ -1,0 +1,139 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000010",
+		"_name": "axdanjia",
+		"_parent": "5448bc234bdc2d3c308b4569",
+		"_type": "Item",
+		"_props": {
+			"Name": "mag_m700_ai_aics_762x51_10",
+			"ShortName": "mag_m700_ai_aics_762x51_10",
+			"Description": "mag_m700_ai_aics_762x51_10",
+			"Weight": 0.4,
+			"BackgroundColor": "yellow",
+			"Width": 1,
+			"Height": 2,
+			"StackMaxSize": 1,
+			"ItemSound": "magazine_metal",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/mag_ax_accuracy_international_ax_86x70_10_pb.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 10,
+			"ExamineExperience": 2,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [
+				"62811d61578c54356d6d67ea",
+				"628121651d5df4475f46a33c",
+				"6281215b4fa03b6b6c35dc6c",
+				"6281214c1d5df4475f46a33a",
+				"5a6086ea4f39f99cd479502f",
+				"5a608bf24f39f98ffc77720e",
+				"58dd3ad986f77403051cba8f",
+				"5e023e53d4353e3302577c4c",
+				"5efb0c1bd79ff02a1f5e68d9",
+				"5e023e6e34d52a55c3304f71",
+				"5e023e88277cce2b522ff2b1"
+			],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": 0,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": -3,
+			"Velocity": 0,
+			"RaidModdable": true,
+			"ToolModdable": false,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": false,
+			"HasShoulderContact": false,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"magAnimationIndex": 0,
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "628120fd5631d45211793ca0",
+					"_parent": "628120fd5631d45211793c9f",
+					"_max_count": 10,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5fc382a9d724d907e2077dab",
+									"5fc275cf85fd526b824a571a",
+									"5fc382c1016cce60e8341b20",
+									"5fc382b6d6fa9c00c571bbc3"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			],
+			"CanFast": true,
+			"CanHit": false,
+			"CanAdmin": false,
+			"LoadUnloadModifier": -15,
+			"CheckTimeModifier": 0,
+			"CheckOverride": 0,
+			"ReloadMagType": "ExternalMagazine",
+			"VisibleAmmoRangesString": "1-3",
+			"MalfunctionChance": 0.02,
+			"TagColor": 0,
+			"TagName": "",
+			"MagazineWithBelt": false,
+			"BeltMagazineRefreshCount": 0,
+			"IsMagazineForStationaryWeapon": false
+		},
+		"_proto": "559ba5b34bdc2d1f1a8b4582"
+	},
+	"origin": "628120fd5631d45211793c9f",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}

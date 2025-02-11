@@ -1,0 +1,164 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000013",
+		"_name": "axkuangjia",
+		"_parent": "55818a304bdc2db5418b457d",
+		"_type": "Item",
+		"_props": {
+			"Name": "���֧��ߧڧ� ��֧�ڧӧ֧� Colt M4A1 5.56��45 �էݧ� �����ާ�ӧ�� �ӧڧߧ��ӧܧ� M4A1",
+			"ShortName": "M4A1 Upper",
+			"Description": "���֧��ߧڧ� ��֧�ڧӧ֧� �էݧ� M4A1 ����ڧ٧ӧ�է��ӧ� �ܧ�ާ�ѧߧڧ� Colt. ���ާ֧֧� �ߧѧ��ѧӧݧ����� �էݧ� �ܧ�֧�ݧ֧ߧڧ� �է���ݧߧڧ�֧ݧ�ߧ�ԧ� ��ҧ���է�ӧѧߧڧ�.",
+			"Weight": 0.31,
+			"BackgroundColor": "blue",
+			"Width": 2,
+			"Height": 1,
+			"StackMaxSize": 1,
+			"ItemSound": "mod",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/reciever_ax_accuracy_international_axmc_std_86x70_pb.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 10,
+			"ExamineExperience": 2,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 1,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [
+				{
+					"_name": "mod_handguard",
+					"_id": "6281204f308cb521f87a8f9e",
+					"_parent": "6281204f308cb521f87a8f9b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6281209662cba23f6c4d7a19"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "628157d3308cb521f87a8fab",
+					"_parent": "6281204f308cb521f87a8f9b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6281212a09427b40ab14e770"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_reciever",
+					"_id": "628157d3308cb521f87a8fac",
+					"_parent": "6281204f308cb521f87a8f9b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"62811fbf09427b40ab14e767"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": -1,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": 4,
+			"Velocity": 0,
+			"RaidModdable": true,
+			"ToolModdable": true,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": false,
+			"HasShoulderContact": false,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"DurabilityBurnModificator": 1,
+			"HeatFactor": 0.989,
+			"CoolFactor": 1.01
+		}
+	},
+	"555ef6e44bdc2de9068b457e": {
+		"_id": "555ef6e44bdc2de9068b457e",
+		"_name": "Barrel",
+		"_parent": "55802f4a4bdc2ddb688b4569",
+		"_type": "Node",
+		"_props": {
+			"CenterOfImpact": 0.01,
+			"ShotgunDispersion": 1,
+			"IsSilencer": false,
+			"DurabilityBurnModificator": 1,
+			"HeatFactor": 1,
+			"CoolFactor": 1,
+			"DeviationCurve": 1,
+			"DeviationMax": 100
+		}
+	},
+	"origin": "6281204f308cb521f87a8f9b",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}

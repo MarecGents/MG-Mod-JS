@@ -1,0 +1,114 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000014",
+		"_name": "axmiaojujizhuo",
+		"_parent": "55818b224bdc2dde698b456f",
+		"_type": "Item",
+		"_props": {
+			"Name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_34mm",
+			"ShortName": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_34mm",
+			"Description": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_34mm",
+			"Weight": 0.199,
+			"BackgroundColor": "blue",
+			"Width": 2,
+			"Height": 1,
+			"StackMaxSize": 1,
+			"ItemSound": "mod",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/mount_all_iea_kh_f_34mm.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 5,
+			"ExamineExperience": 3,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "5c86592b2e2216000e69e77e",
+					"_parent": "5c86592b2e2216000e69e77c",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"56ea70acd2720b844b8b4594",
+									"5aa66be6e5b5b0214e506e97",
+									"61714eec290d254f5e6b2ffc"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": 0,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": -1,
+			"Velocity": 0,
+			"RaidModdable": true,
+			"ToolModdable": true,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": false,
+			"HasShoulderContact": false,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"HeatFactor": 1,
+			"CoolFactor": 1
+		},
+		"_proto": "577d128124597739d65d0e56"
+	},
+	"origin": "5c86592b2e2216000e69e77c",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}

@@ -1,0 +1,128 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000015",
+		"_name": "axqiangguan",
+		"_parent": "555ef6e44bdc2de9068b457e",
+		"_type": "Item",
+		"_props": {
+			"Name": "barrel_m700_remington_heavy_660mm",
+			"ShortName": "barrel_m700_remington_heavy_660mm",
+			"Description": "barrel_m700_remington_heavy_660mm",
+			"Weight": 1.93,
+			"BackgroundColor": "blue",
+			"Width": 4,
+			"Height": 1,
+			"StackMaxSize": 1,
+			"ItemSound": "mod",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/barrel_ax_accuracy_international_686mm_86x70_pb.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 6,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 4,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [
+				"5a6086ea4f39f99cd479502f",
+				"5a608bf24f39f98ffc77720e",
+				"58dd3ad986f77403051cba8f",
+				"5e023e53d4353e3302577c4c",
+				"5efb0c1bd79ff02a1f5e68d9",
+				"5e023e6e34d52a55c3304f71",
+				"5e023e88277cce2b522ff2b1"
+			],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "62820e07f779fc31497d1445",
+					"_parent": "628121434fa03b6b6c35dc6a",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"62812081d23f207deb0ab216",
+									"612e0d81290d254f5e6b291a",
+									"5fc23636016cce60e8341b05"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": -5,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": -18,
+			"Velocity": 5.6,
+			"RaidModdable": false,
+			"ToolModdable": true,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": false,
+			"HasShoulderContact": false,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"CenterOfImpact": 0.011,
+			"ShotgunDispersion": 1,
+			"IsSilencer": false,
+			"DurabilityBurnModificator": 1,
+			"HeatFactor": 1.05,
+			"CoolFactor": 0.94,
+			"DeviationCurve": 1,
+			"DeviationMax": 33
+		},
+		"_proto": "55d3632e4bdc2d972f8b4569"
+	},
+	"origin": "628121434fa03b6b6c35dc6a",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}

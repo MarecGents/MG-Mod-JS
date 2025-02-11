@@ -1,0 +1,143 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000011",
+		"_name": "axdaogui",
+		"_parent": "55818b224bdc2dde698b456f",
+		"_type": "Item",
+		"_props": {
+			"Name": "mount_keymod_strike_industries_4_inch_rail_section",
+			"ShortName": "mount_keymod_strike_industries_4_inch_rail_section",
+			"Description": "mount_keymod_strike_industries_4_inch_rail_section",
+			"Weight": 0.07,
+			"BackgroundColor": "blue",
+			"Width": 3,
+			"Height": 1,
+			"StackMaxSize": 1,
+			"ItemSound": "mod",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/mount_keyslot_accuracy_international_at_x_forend_rail_pb.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 5,
+			"ExamineExperience": 5,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [
+				{
+					"_name": "mod_sight_front",
+					"_id": "62820f043e69a0418a7cb5f7",
+					"_parent": "628120c21d5df4475f46a337",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "62820f043e69a0418a7cb5f8",
+					"_parent": "628120c21d5df4475f46a337",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5d10b49bd7ad1a1a560708b0",
+									"5c06595c0db834001a66af6c",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"644a3df63b0b6f03e101e065"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": 0,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": 0,
+			"Velocity": 0,
+			"RaidModdable": true,
+			"ToolModdable": true,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": false,
+			"HasShoulderContact": false,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"HeatFactor": 1,
+			"CoolFactor": 1
+		},
+		"_proto": "55f96d6f4bdc2d5f408b4578"
+	},
+	"origin": "628120c21d5df4475f46a337",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}

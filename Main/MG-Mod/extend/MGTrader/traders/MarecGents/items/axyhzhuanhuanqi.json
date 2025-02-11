@@ -1,0 +1,168 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000020",
+		"_name": "axyhzhuanhuanqi",
+		"_parent": "55818a594bdc2db9688b456a",
+		"_type": "Item",
+		"_props": {
+			"Name": "stock_590_mesa_leo_stock_adapter_gen1",
+			"ShortName": "stock_590_mesa_leo_stock_adapter_gen1",
+			"Description": "stock_590_mesa_leo_stock_adapter_gen1",
+			"Weight": 0.15,
+			"BackgroundColor": "blue",
+			"Width": 1,
+			"Height": 1,
+			"StackMaxSize": 1,
+			"ItemSound": "mod",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/pistolgrip_ax_gtac_ax_pistol_grip_adapter_pb.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 5,
+			"ExamineExperience": 1,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [
+				{
+					"_name": "mod_stock_000",
+					"_id": "62811e335631d45211793c96",
+					"_parent": "62811e335631d45211793c95",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"62811f828193841aca4a45c3"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_pistol_grip",
+					"_id": "62811e335631d45211793c97",
+					"_parent": "62811e335631d45211793c95",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"55d4b9964bdc2d1d4e8b456e",
+									"571659bb2459771fb2755a12",
+									"6113c3586c780c1e710c90bc",
+									"6113cc78d3a39d50044c065a",
+									"6113cce3d92c473c770200c7",
+									"5bb20e18d4351e00320205d5",
+									"57c55efc2459772d2c6271e7",
+									"57af48872459771f0b2ebf11",
+									"57c55f092459772d291a8463",
+									"57c55f112459772d28133310",
+									"57c55f172459772d27602381",
+									"5a339805c4a2826c6e06d73d",
+									"59db3a1d86f77429e05b4e92",
+									"615d8faecabb9b7ad90f4d5d",
+									"5b07db875acfc40dc528a5f6",
+									"63f5feead259b42f0b4d6d0f"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_reciever",
+					"_id": "62815b828193841aca4a45c9",
+					"_parent": "62811e335631d45211793c95",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6281204f308cb521f87a8f9b"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": 0,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": -1,
+			"Velocity": 0,
+			"RaidModdable": false,
+			"ToolModdable": true,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": true,
+			"HasShoulderContact": true,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"IsShoulderContact": false,
+			"Foldable": true,
+			"Retractable": false,
+			"SizeReduceRight": 0,
+			"HeatFactor": 1,
+			"CoolFactor": 1,
+			"DurabilityBurnModificator": 1
+		},
+		"_proto": "56083be64bdc2d20478b456f"
+	},
+	"origin": "62811e335631d45211793c95",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}

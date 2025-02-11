@@ -1,0 +1,141 @@
+{
+	"item": {
+		"_id": "8ef5b2ef3000000000000023",
+		"_name": "axzhunjin",
+		"_parent": "55818ae44bdc2dde698b456c",
+		"_type": "Item",
+		"_props": {
+			"Name": "scope_34mm_hensoldt_zf_4_16x56_ff",
+			"ShortName": "scope_34mm_hensoldt_zf_4_16x56_ff",
+			"Description": "scope_34mm_hensoldt_zf_4_16x56_ff",
+			"Weight": 0.9,
+			"BackgroundColor": "blue",
+			"Width": 2,
+			"Height": 1,
+			"StackMaxSize": 1,
+			"ItemSound": "mod",
+			"Prefab": {
+				"path": "assets/content/accessories/yh/scope_34mm_hensoldt_zf_4_16x56_ff.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 15,
+			"ExamineExperience": 8,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [
+				"591c4efa86f7741030027726",
+				"570fd79bd2720bc7458b4583",
+				"570fd6c2d2720bc6458b457f",
+				"558022b54bdc2dac148b458d",
+				"58491f3324597764bc48fa02",
+				"584924ec24597768f12ae244",
+				"5b30b0dc5acfc400153b7124",
+				"60a23797a37c940de7062d02",
+				"5d2da1e948f035477b1ce2ba",
+				"5c0505e00db834001b735073",
+				"609a63b6e2ff132951242d09",
+				"584984812459776a704a82a6",
+				"59f9d81586f7744c7506ee62",
+				"570fd721d2720bc5458b4596",
+				"5c7d55f52e221644f31bff6a",
+				"64785e7c19d732620e045e15",
+				"6165ac8c290d254f5e6b2f6c",
+				"6477772ea8a38bb2050ed4db"
+			],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"InsuranceDisabled": false,
+			"QuestStashMaxCount": 0,
+			"IsSpecialSlotOnly": false,
+			"IsUnremovable": false,
+			"Grids": [],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": 0,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": -6,
+			"Velocity": 0,
+			"RaidModdable": true,
+			"ToolModdable": true,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": false,
+			"HasShoulderContact": false,
+			"SightingRange": 1500,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"CustomAimPlane": "",
+			"sightModType": "optic",
+			"ScopesCount": 1,
+			"AimSensitivity": [
+				[
+					0.125,
+					0.0313
+				]
+			],
+			"ModesCount": [
+				2
+			],
+			"Zooms": [
+				[
+					4,
+					16
+				]
+			],
+			"CalibrationDistances": [
+				[
+					50,
+					100,
+					150,
+					200,
+					250,
+					300,
+					350,
+					400,
+					450
+				]
+			]
+		},
+		"_proto": "544a3d0a4bdc2d1b388b4567"
+	},
+	"origin": "56ea70acd2720b844b8b4594",
+	"Type": [
+		"Slots",
+		"Chambers",
+		"Cartridges"
+	]
+}
