@@ -1,11 +1,11 @@
 const axios = require('axios');
 const fs = require("fs");
 const path = require("path");
-const githubInfo = require("../../res/price/github.json");
+const githubInfo = require("../../res/price/tokens.json");
 
 class getPrice{
     getPriceFun(mod,callback){
-        const githubInfo = require("../../res/price/github.json");
+        const githubInfo = require("../../res/price/tokens.json");
         const token = githubInfo.token;
         const owner = githubInfo.owner;
         const repo = githubInfo.repo;
